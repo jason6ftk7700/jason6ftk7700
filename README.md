@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm jason6ftk7700
 
-<!--
-**jason6ftk7700/jason6ftk7700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛶 🥊 Building the future with game development 🛶 🥊
 
-Here are some ideas to get you started:
+## About Me
+🎾 🏏 Creating amazing things with back-end development 🎾 🏏
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎮 🚣 A hacker in data science 🎮 🚣
+
+### Fun Facts
+💡 🎮 🥊 Obsessed with programming languages 💡 🎮 🥊
+
+---
+🎬 🎣 🎮 🔥 💡 Thanks for visiting my profile! 🏏 🛶 🎮 🎷 🛼
